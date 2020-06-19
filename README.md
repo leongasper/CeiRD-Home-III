@@ -5,7 +5,7 @@
 </head>
 <body>
     <div style="text-align:center;vertical-align:middle;">
-        <img src="images/index.jpg" style="margin:auto; width:1921px;" />
+        <img src="images/index.jpg" style="margin:auto; width:1690px;" />
     </div>
 </body>
 </html>
